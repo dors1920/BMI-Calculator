@@ -1,0 +1,12 @@
+ion-content {
+  background: linear-gradient(to left, #fc00ff, #00dbde);
+}
+
+h2 {
+  color: darkred
+}
+
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: justify;
+}
